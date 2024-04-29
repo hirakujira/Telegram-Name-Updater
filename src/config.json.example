@@ -1,0 +1,6 @@
+{
+    "api_id": "YOUR_APP_API_ID",
+    "api_hash": "YOUR_APP_API_HASH",
+    "name_prefix": "Your Prefix ",
+    "symbol": "BTCUSDT"
+}
